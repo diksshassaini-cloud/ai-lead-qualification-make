@@ -21,9 +21,7 @@ Make.com, Google Forms, Google Sheets, Google Gemini API, Gmail, prompt engineer
 
 ## Results
 - Scores and categorizes a lead in 60 seconds, compared with about 5 minutes manually
-- Tested on 2 sample leads across all three categories
-- [Add anything else you measured]
-
+- Tested on 2 sample leads so far
 ## Files
 - `blueprint.json`: import into Make to reproduce the scenario
 - `prompt.txt`: the AI scoring prompt
