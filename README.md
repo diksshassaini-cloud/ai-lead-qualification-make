@@ -20,11 +20,10 @@ When a lead submits the form, the workflow scores it with Google Gemini, sorts i
 Make.com, Google Forms, Google Sheets, Google Gemini API, Gmail, prompt engineering, JSON parsing
 
 ## Results
-- Scores and categorizes a lead in 60 seconds, compared with about 5 minutes manually
+- Scores and categorizes a lead in 60 seconds, compared with about 120 minutes manually
 - Tested on 2 sample leads so far
 ## Files
 - `blueprint.json`: import into Make to reproduce the scenario
-- `prompt.txt`: the AI scoring prompt
 - `screenshots/`: the scenario, the form and the results sheet
 
 ## Note
